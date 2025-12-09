@@ -1,0 +1,36 @@
+body {
+  background-color: #faf7f2;
+  font-family: "Arial", sans-serif; /* police sobre pour les listes du programme */
+}
+
+h1 {
+  color: #b22222;
+  text-shadow: 1px 1px 0px #fff2e5;
+  margin-bottom: 0.5rem;
+}
+
+.card.programme-card {
+  border: 2px solid #d6c48d;
+  border-radius: 12px;
+  background-color: #fff8f0;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+.list-group-item a {
+  color: #2e5c2f;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.list-group-item a:hover {
+  color: #264d27;
+  text-decoration: none;
+}
+
+.alert-warning {
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+  font-weight: 600;
+}

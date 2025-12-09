@@ -1,0 +1,59 @@
+body {
+  background: #faf7f2;
+  font-size: 1.1rem;
+}
+
+h1 {
+  color: #b22222;
+  text-shadow: 1px 1px 0px #fff2e5;
+  margin-bottom: 0.2rem;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  color: #8b0000;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.card {
+  border: 2px solid #d6c48d;
+  border-radius: 12px;
+  background-color: #fff8f0;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+  padding: 1rem;
+}
+
+.strophe {
+  color: #8b0000;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.15rem;
+}
+
+pre {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  font-family: "Georgia", serif;
+  white-space: pre-wrap;
+  margin: 0;
+}
+
+.btn-noel {
+  background-color: #2e5c2f;
+  color: #fff;
+  font-weight: 600;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-noel:hover {
+  background-color: #264d27;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-buttons .col-6 {
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+}
